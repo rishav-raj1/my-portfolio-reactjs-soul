@@ -2,7 +2,7 @@ import React,{useState} from 'react';
 import {Link} from 'react-scroll';
 import logo from '../images/logo2.jpg';
 
-function Navbar() {
+function Navbar() { 
 
     const[nav,setnav] = useState(false);
 
