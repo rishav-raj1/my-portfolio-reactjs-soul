@@ -8,7 +8,7 @@ function Header(){
                 <h1><span>RISHAV</span><br/> KUMAR </h1>
                 <p className='details'>Full Stack Developer, Web Developer, App Developer.</p>
                 <div className='header-btns'>
-                    <a herf='#' className='header-btn'> Details r </a>
+                    <a herf='#' className='header-btn'> Details </a>
                 </div>
             </div>
         </div>
